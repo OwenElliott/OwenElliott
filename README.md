@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OwenElliott
 - 👀 I’m interested in ... nothing :(
-- 🌱 I’m currently learning python, Java, JS, C, C++, Holy C, whatever the fuck they were typing in the matrix
+- 🌱 I’m currently learning python, Java, JS, C, C++, HolyC, whatever the fuck they were typing in the matrix
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: dont
 
