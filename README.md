@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OwenElliott
-- 👀 I’m interested in ... nothing :(
-- 🌱 I’m currently learning python, Java, JS, C, C++, HolyC, whatever the fuck they were typing in the matrix
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: dont
+- 👀 I’m interested in ...
+- 🌱 
+- 💞️ I’m looking to collaborate on
+- 📫 How to reach me: 
 
 <!---
 OwenElliott/OwenElliott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
